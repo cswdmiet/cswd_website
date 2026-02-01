@@ -32,7 +32,7 @@ export default function TeamPage() {
       image: 'coreTeam/nikhil.jpg',
       bio: 'Expert in full-stack development',
       linkedin: '#',
-      github: '#',
+      github: 'https://github.com/nikhilpundir108',
       twitter: '#',
       isLeader: true
     },
